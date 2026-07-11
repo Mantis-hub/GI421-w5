@@ -376,6 +376,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2067511778945289143, guid: ed3df85dd1df8f74bb89365d32a00499, type: 3}
+      propertyPath: m_Size
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 2067511778945289143, guid: ed3df85dd1df8f74bb89365d32a00499, type: 3}
+      propertyPath: m_LODs.Array.data[0].screenRelativeHeight
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2067511778945289143, guid: ed3df85dd1df8f74bb89365d32a00499, type: 3}
+      propertyPath: m_LODs.Array.data[1].screenRelativeHeight
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2067511778945289143, guid: ed3df85dd1df8f74bb89365d32a00499, type: 3}
+      propertyPath: m_LODs.Array.data[2].screenRelativeHeight
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2067511778945289143, guid: ed3df85dd1df8f74bb89365d32a00499, type: 3}
+      propertyPath: m_LODs.Array.data[3].screenRelativeHeight
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 3179271975810159161, guid: ed3df85dd1df8f74bb89365d32a00499, type: 3}
       propertyPath: m_Name
       value: Moving_Castle LOD
@@ -576,7 +596,7 @@ Transform:
   m_GameObject: {fileID: 1988595101}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 40, z: 50.4}
+  m_LocalPosition: {x: 0, y: 40, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
