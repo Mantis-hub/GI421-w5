@@ -21,6 +21,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Model
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4e1f70481f758f488fbb5cb10991842
+    m_Address: Assets/ArtAssets/3d model/Moving_Castle.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Model
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 34fd0ead44ec25744ae3c9bede5a56c8, type: 2}
   m_SchemaSet:
